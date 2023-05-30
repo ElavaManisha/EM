@@ -1,0 +1,100 @@
+body{
+
+    
+    font-weight:bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}
+
+ a{
+    text-decoration: none;
+
+ }
+
+ a:hover{
+       color: darkturquoise;
+
+}
+ a:active{
+    color: rgb(152, 212, 41);
+ }
+ a:visited{
+    color: firebrick;
+ }
+
+h1{
+    text-align: center;
+    color: darkorange;
+}
+
+p{
+    line-height: 1.;
+}
+.c1
+{
+   color: black;
+   background-color:#dbebea;
+   border:black 3px solid;
+   padding: 15px;
+
+
+}
+.c2
+{
+  color:rgb(6, 37, 37);
+  background-color: darkgray;
+  font-style:normal;
+  text-transform: uppercase; 
+  letter-spacing: 0.3em;
+  word-spacing: 1em;
+}
+.c3
+{
+    color:darksalmon; 
+    background-color:black; 
+
+}
+.container{
+  
+    width:60%;
+    margin: auto;
+}
+.c4
+{
+   border: 1px black solid;
+   border-radius: 10px;
+}
+.c4 li{
+
+    padding-bottom: 7px;
+
+}
+.c4 ul{
+    list-style-image:url("png..png");  
+}
+.e1{
+    padding: 20px
+}
+.eg{
+    padding-bottom: 20px;
+}
+.e1 label{
+    display: block;
+}
+.e1 input{
+    padding: 10px;
+    width: 50%;
+
+}
+.button{
+    background-color:black;
+    color: bisque;
+    padding: 10px;
+    border:none;
+
+}
+.button:hover{
+    background-color: brown;
+    color: aliceblue;
+
+}
